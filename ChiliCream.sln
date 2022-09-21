@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChiliCream", "ChiliCream\ChiliCream.csproj", "{27FD9FF0-1EEA-4433-9B19-691F7BBF88F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27FD9FF0-1EEA-4433-9B19-691F7BBF88F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FD9FF0-1EEA-4433-9B19-691F7BBF88F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FD9FF0-1EEA-4433-9B19-691F7BBF88F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FD9FF0-1EEA-4433-9B19-691F7BBF88F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9760A00-C64F-4BBC-8F0A-D1453F371A0A}
+	EndGlobalSection
+EndGlobal
